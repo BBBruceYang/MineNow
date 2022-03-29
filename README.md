@@ -1,2 +1,4 @@
 # MineNow
-買
+
+
+LineBot message API 串接測試
